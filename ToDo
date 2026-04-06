@@ -1,0 +1,20 @@
+Ami Laravel 13 project-er full zip upload korlam. Tumi puro project inspect kore existing structure maintain kore kaaj korba.
+
+Stack:
+- Laravel 13
+- PHP 8.3
+- Fortify auth
+- Sanctum API
+- AdminLTE backend
+- SweetAlert use hobe
+
+Instructions:
+- Age zip inspect koro
+- Guess korba na
+- Existing routes, layouts, menu, footer, dependencies check koro
+- Missing package thakle identify koro
+- Conflict thakle bolo
+- Final updated files dao
+- Possible hole updated zip dao
+- Na hole file-by-file final code dao
+- Run commands o test flow o dao

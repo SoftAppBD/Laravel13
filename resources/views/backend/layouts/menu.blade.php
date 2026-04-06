@@ -11,7 +11,7 @@
 
 {{-- Menu Route  --}}
 
-<li class="nav-item {{ request()->routeis(['company', 'category']) ? ' menu-is-opening menu-open' : '' }}">
+{{-- <li class="nav-item {{ request()->routeis(['company', 'category']) ? ' menu-is-opening menu-open' : '' }}">
     <a href="#"
         class="{{ request()->routeis(['company', 'category']) ? 'active' : '' }} nav-link btn btn-outline-success text-left">
         <i class="nav-icon fas fa-city"></i>
@@ -47,7 +47,7 @@
         <i class="nav-icon fas fa-cogs"></i>
         <p>Settings</p>
     </a>
-</li>
+</li> --}}
 
 
 

@@ -15,7 +15,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="https://cdn.datatables.net/1.13.2/css/dataTables.bootstrap5.min.css" rel="stylesheet" />
     <link href="{{ asset('/backend/assets/libs/summernote/summernote-lite.css') }}" rel="stylesheet" type="text/css" />
-    <link href="https://softappbd.com/public/assets/img/favicon.png" rel="icon">
+    <link href="https://laravel.com/img/favicon/favicon.ico" rel="icon">
     @yield('third_party_stylesheets')
     @stack('page_css')
     @yield('style')
